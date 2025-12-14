@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pronabowy" target="blank"><img src="https://img.shields.io/twitter/follow/pronabowy?logo=twitter&style=for-the-badge" alt="pronabowy" /></a> </p>
 
-- 🔭 I’m currently working on [e-commerce Project](https://buyigetvapesydney.com/)
+- 🔭 I’m currently working on [Biddex](https://biddex.com/)
 
 - 🌱 I’m currently learning **React, algorithm && data structure**
 
